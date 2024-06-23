@@ -1,0 +1,32 @@
+Caitlyn Yong|0167456678|985677-14-7890|23|F|B|C-12-10, No.7 Jalan Citra 56100, Selangor|Caitlyn679|Caitlyn_64|LOW RISK|01/11/2020|Pfizer|12/03/2021|Sinovac|31/12/2022|Sinovac
+Johnson|0185267935|948676-06-6678|32|M|C|T-3-15, No.6 Jalan Lexus 59100, Kedah|John67son9|John11|CLOSE CONTACT|05/08/2021|Pfizer|26/09/2021|Pfizer|17/01/2022|Sinovac
+Oliver|0176557890|780411-08-5567|47|F|C|H-15-1, No.4 Jalan Dataran 51000, Sabah|Oli9012_23|Oli_london|CONFIRMED CASE|15/07/2021|Pfizer|05/08/2021|Pfizer||
+Noah Ling|0173653857|737781-04-1123|22|M|B|N-1-13, No.15 Jalan Desa Park City 52100, Kuala Lumpur|noAh119812|Noah_77|LOW RISK|13/10/2020|AstraZenca|12/12/2020|Pfizer|19/03/2021|Pfizer
+Le Yun|0113985157|030920-01-0123|20|F|C|B-33-10, No.9 Jalan Mandana 53100, Terengganu|minion1124|leyun_single|LOW RISK|04/06/2021|Sinovac|08/08/2021|Sinovac|07/01/2022|Sinovac
+Avania Rania|0154567732|076342-14-0276|19|F|I|N-2-9, No.5 Jalan Gasing 55100, Sarawak|jinglebell|AvaNia4567|SUSPECTED CASE|17/09/2022|Sinovac|26/10/2022|Pfizer||
+Mohd Joe|0178905567|089034-05-6678|38|M|I|B-8-1, No.1 Jalan Budiman 57100, Melaka|basketball|Mohd990133|CONFIRMED CASE|15/10/2022|Pfizer|29/11/2022|Pfizer|02/02/2023|Pfizer
+Aurora kaur|0175557824|087369-17-8362|78|F|S|G-19-3, No.3 Jalan Jamanan 58000, Johor|Gyhenhehe9|Aurora112|CLOSE CONTACT|03/11/2022|Pfizer|06/12/2022|Pfizer|03/02/2023|Pfizer
+Nur Siti|0126777829|836772-93-7362|43|F|I|B-11-12, No.12 Jalan Taman Midah 55100, Kuala Lumpur|Siti003628|Siti_Balqis|LOW RISK|17/08/2021|AstraZenca|19/09/2021|AstraZenca|18/03/2022|Pfizer
+Kumaran|0137362588|973729-67-9432|25|M|H|A-2-26, No.18 Jalan Cochrane 59000, Perlis|kUKAN89008|Kumaran56|CONFIRMED CASE|30/11/2020|AstraZenca|30/12/2020|Pfizer|19/06/2021|Pfizer
+Aiden|0138992034|889203-19-0398|69|M|B|M-17-10, No.1 Jalan Bukit Dukung 51100, Pulau Penang|aiden18b20|Aiden_67|LOW RISK|01/04/2021|Pfizer|06/08/2021|Sinovac||
+Priyanka|0179238305|738582-65-9667|36|F|H|C-15-12, No.4 Jalan Permaisuri 54100, Johor|ppopop8890|Pop_pri45|SUSPECTED CASE|26/04/2021|Sinovac|02/10/2021|Sinovac|05/03/2022|Pfizer
+Lucas|0136167030|113904-78-0484|26|M|B|B-3-11, No.8 Jalan Kajang 51000, Pahang|lucathebuc|Lucas1738|LOW RISK|10/12/2022|Pfizer|11/01/2023|Pfizer||
+Nur Ciani|0167489204|839409-15-3874|53|F|I|G-10-18, No.19 Jalan Connaught 52100, Kelantan|sillica112|nUR_ciani1|CONFIRMED CASE|03/09/2021|AstraZenca|02/11/2021|Sinovac|04/04/2022||Sinovac
+Ethan|0182737620|928198-23-6643|74|M|C|B-56-4, No.2 Jalan Gemboja 53100, Negeri Sembilan|fastcars86|Eth_ethan|CONFIRMED CASE|16/08/2021|Sinovac|08/11/2021|Pfizer|08/06/2022|Pfizer
+Harish Singh|0128583662|802432-29-3348|34|M|S|C-22-8, No.1 Jalan Senaman 59200, Melaka|harish8819|Harish91|CLOSE CONTACT|01/12/2020|AstraZenca|01/02/2021|Pfizer|07/07/2021|Pfizer
+Elijah|0168583920|382953-75-8305|24|M|C|H-1-32, No.19 Jalan Citra 51600, Sarawak|elmo163820|Elijah_elmo|LOW RISK|30/7/2020|Pfizer|10/09/2020|Pfizer|11/09/2021|Pfizer
+Mohd. Ikmal|0138503749|904638-89-4066|37|M|I|C-5-5, No.7 Jalan Kampung Gajah 58100, Selangor|ikamels901|Ikmal_11|SUSPECTED CASE|03/05/2021|Sinovac|27/06/2021|Sinovac|03/01/2022|Pfizer
+Matil Kaur|0173985844|927490-32-3738|83|F|S|D-1-12, No.2 Jalan Sri Petaling 53300, Perlis|MATilhda12|Matil1_Kaur|LOW RISK|27/04/2021|Sinovac|30/06/2021|Pfizer||
+Abigail|0128473477|827848-29-0399|42|F|H|C-65-14, No.5 Jalan Alam Damai 57200, Kuala Lumpur|ABisnel123|Abigail2830|LOW RISK|08/02/2021|Pfizer|18/03/2021|Pfizer||
+RUI LUAN|0177220232|030224-04-0384|20|F|C|C324, Cypress Condominium 84000 Muar, Johor|shirley24k|shirley24kkkk|LOW RISK|12/12/2020|Sinovac||||
+SALLY SEE|0177220909|090923-09-9990|14|F|I|No. 5, Jalan Ali 13, Taman Abu 84000 Muar, Johor|sallysee|sallysee123|LOW RISK||||||
+ZOE CHUA|0107807792|030406-01-0370|20|F|C|C342, Scotpine Condominium 43000 Kajang, Selangor|zoechua|zczy0406|LOW RISK|23/3/2021|Pfizer|23/5/2021|Pfizer|9/9/2022|Sinovac
+ALI BIN MOHAMMAD|0177220232|990909-12-2331|24|M|M|No. 6, Jalan Sembilan, Taman Durian 85000 Batu Pahat, Johor.|alimhd|alimhd99|SUSPECTED CASE||||||
+ZOEY LIM|0171234833|020302-04-0300|21|F|C|B23, Durian Condominium, 43000 Kajang, Selangor|zoeyyyy|zoeyyylim|LOW RISK|11/12/2021|Pfizer|2/12/2021|Pfizer|23/4/2022|Sinovac
+ASHLEY LIM|0192348765|090219-02-4030|14|F|M|G168, Heng Condominium 85000 Batu Pahat, Johor|ashley23lim|ashleyyyyy|LOW RISK|24/3/2022|Pfizer|31/5/2022|Pfizer|18/1/2023|Sinovac
+NURUL NATASYA|0192340939|590923-88-3424|64|F|M|No. 34, Jalan Lavender, Taman Bunga Raya, 91000 Tawau, Sabah|natasya|natasya939|CONFIRMED CASE|14/4/2021|Sinovac|26/6/2021|Pfizer||
+PRIYA A/P ASOGAN|0143248573|690423-02-0842|54|F|I|D24, Silk Residence 05000 Alor Setar, Kedah|priyaasg|iampriya|CONFIRMED CASE|30/9/2021|AstraZenca|31/12/2021|AstraZenca||
+ERIC CHUA|0177330454|780319-23-2231|45|M|BSH|S45, Gawai Residence 88000 Kota Kinabalu, Sabah|ericchua|eric2231|SUSPECTED CASE|18/8/2022|Sinovac||||
+KIM BEI ER|0123920393|090203-43-2940|14|F|C|No. 23, Jalan Utara, Taman Utara 40000 Shah Alam, Selangor|beierrrrr|beier393|LOW RISK|9/9/2022|Pfizer||||
+NIVIKA|0182189032|660606-66-6666|57|F|I|No. 66, Jalan Enam, Taman Cempedak 46000 Petaling Jaya, Selangor|nivikaaaa|nivika666|SUSPECTED CASE||||||
+MUHAMMAD HAFIF|0166333231|430208-64-9989|80|M|BSK|S95, Jasmani Condominium 98000 Miri, Sarawak|mohdhafif|hafif9989|SUSPECTED CASE||||||
